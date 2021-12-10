@@ -5,3 +5,5 @@ These pages provide a hub for existing Scottish RSE groups, motivate new groups 
 ## Existing Scottish RSE Groups
 
 * [Community of Edinburgh RSEs (CERSE)](https://cerse.github.io)
+* [EPCC](https://www.epcc.ed.ac.uk)
+* [St Andrews RSE group](https://rse.cs.st-andrews.ac.uk/)
