@@ -11,4 +11,4 @@ The Scottish Research Software Engineers (ScotRSE) Network has the following aim
 * Provide logistical support and advice to local RSE communities in Scotland
 * Build a national network that can advocate for RSE in Scotland
 
-We would like to have virtual meetings, probably once a month that will be orga
+We would like to have virtual meetings, probably once a month that will be organised on a rotating basis with different organisations taking turn to host.  
