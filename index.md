@@ -1,4 +1,4 @@
-# ScotRSE:  A Network of Research Software Engineers in Scotland
+## ScotRSE:  A Network of Research Software Engineers in Scotland
 
 These pages provide a hub for existing Scottish RSE groups, motivate new groups to form in Scottish Institutions and an opportunity to network between these groups or an individuals if there are no local groups. 
 
