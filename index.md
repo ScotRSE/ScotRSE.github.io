@@ -4,7 +4,7 @@ These pages provide a hub for existing Scottish RSE groups, motivate new groups 
 
 ## Keep in touch!
 
-If you are interested in finding out more please join our mailing list SCOTRSE at JISCMAIL.AC.UK and see the #Scotland channel on UKRSE slack.
+If you are interested in finding out more please join our mailing list [SCOTRSE](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=SCOTRSE) and see the #Scotland channel on UKRSE slack.
 
 ## Existing Scottish RSE Groups (that we know of...)
 
