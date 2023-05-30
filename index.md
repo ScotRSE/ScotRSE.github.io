@@ -6,7 +6,7 @@ These pages provide a hub for existing Scottish RSE groups, motivate new groups 
 
 ### Inaugural meeting
 
-Our very first ScotRSE event will take place virtually on Wednesday 14th June 10-11 online.
+Our very first ScotRSE event will take place virtually on **Wednesday 14th June 10-11** online.
 
 This first event will be an informal chance to get to know each other a little and to think about community building and
 what we’d like to see from the community.
