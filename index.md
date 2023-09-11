@@ -4,6 +4,12 @@ These pages provide a hub for existing Scottish RSE groups, motivate new groups 
 
 ## Meetings
 
+### St Andrews 
+
+Kindly hosted by Olexandr Konovalov at the University of St Andrews, we'll be hearing about the St Andrews RSE team from Olexandr and also finding out what it's like to volunteer at RSECon from volunteer chair Becky Smith.
+
+Register here for the zoom link:  https://www.eventbrite.co.uk/e/715309218127?aff=oddtdtcreator
+
 ### Inaugural meeting
 
 Our very first ScotRSE event took place virtually on **Wednesday 14th June 10-11** online.
