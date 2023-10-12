@@ -4,6 +4,11 @@ These pages provide a hub for existing Scottish RSE groups, motivate new groups 
 
 ## Meetings
 
+### Strathclyde
+
+Oliver Henrich: The Kokkos Ecosystem for Performance Portability
+Daniel Thomas: Intro to the "Hacky Hour" drop in sessions that provide research software support and advice to researchers. 
+
 ### St Andrews 
 
 Kindly hosted by Olexandr Konovalov at the University of St Andrews, we'll be hearing about the St Andrews RSE team from Olexandr and also finding out what it's like to volunteer at RSECon from volunteer chair Becky Smith.
