@@ -7,6 +7,7 @@ These pages provide a hub for existing Scottish RSE groups, motivate new groups 
 ### Strathclyde
 
 Oliver Henrich: The Kokkos Ecosystem for Performance Portability
+
 Daniel Thomas: Intro to the "Hacky Hour" drop in sessions that provide research software support and advice to researchers. 
 
 ### St Andrews 
