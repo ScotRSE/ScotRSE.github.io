@@ -4,18 +4,25 @@ These pages provide a hub for existing Scottish RSE groups, motivate new groups 
 
 ## Meetings
 
-### Strathclyde
+### University of Glasgow
+Ian Barass: University of Glasgow
 
+### Christmas Meetup 
+Informal pre-christmas chat 
+
+### James Hutton Institute
+Fraser Macfarlane:  Machine Learning and its Application to Computer Vision Challenges at the James Hutton Institute
+Becky Smith:  Introduction to the James Hutton Institute
+
+### University of Strathclyde
 Oliver Henrich: The Kokkos Ecosystem for Performance Portability
-
 Daniel Thomas: Intro to the "Hacky Hour" drop in sessions that provide research software support and advice to researchers. 
 
-### St Andrews 
-
-Kindly hosted by Olexandr Konovalov at the University of St Andrews, we'll be hearing about the St Andrews RSE team from Olexandr and also finding out what it's like to volunteer at RSECon from volunteer chair Becky Smith.
+### University of St Andrews 
+Olexandr Konovalov: The St Andrews RSE team
+Becky Smith: Volunteering at RSECon
 
 ### Inaugural meeting
-
 Our very first ScotRSE event took place virtually on **Wednesday 14th June 10-11** online.
 
 ![Attendees at the inaugural event.](imgs/ScotRSEInaugural-blurr.png)
