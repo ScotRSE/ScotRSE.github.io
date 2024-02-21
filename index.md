@@ -4,6 +4,9 @@ These pages provide a hub for existing Scottish RSE groups, motivate new groups 
 
 ## Meetings
 
+## Show and Tell
+Group discussion with people sharing projects they've been working on.
+
 ### University of Glasgow
 Ian Barass: University of Glasgow
 
