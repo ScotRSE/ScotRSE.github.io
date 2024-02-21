@@ -2,6 +2,8 @@
 
 These pages provide a hub for existing Scottish RSE groups, motivate new groups to form in Scottish Institutions and an opportunity to network between these groups or an individuals if there are no local groups. 
 
+We follow the Society of Research Software Engineering Code of Conduct:  https://society-rse.org/about/policies/code-of-conduct/
+
 ## Meetings
 
 ## Show and Tell
