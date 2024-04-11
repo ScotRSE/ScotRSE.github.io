@@ -6,6 +6,9 @@ We follow the Society of Research Software Engineering Code of Conduct:  https:/
 
 ## Meetings
 
+## Model Driven Engineering
+Steffen Zschaler talked about Model Driven Engineering (and RSE) and the network he has built around this (https://mde-network.com/)
+
 ## Show and Tell
 Group discussion with people sharing projects they've been working on.
 
